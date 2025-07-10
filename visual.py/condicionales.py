@@ -41,10 +41,41 @@
 # else:
 #     print(f"el numero {numero[2]} es mayor que{numero[0]} y {numero[1]}")
 
-# 6
- precio = float(inputfungresa el precio de un producto: "))
- precio precio (precio*0.1)
- if precio 100: 
-     print(f"El precio final del producto con 10% de descuento es {prec10}")
- else:
-     print(f"El precio final sin el 10% de descuento es: {prec}")
+# 6 
+# precio = float(input(f"Ingresa el precio de un producto: "))
+# precios = precio - (precio * 0.1)
+# if precio > 100: 
+#      print(f"El precio final del producto con 10% de descuento es {precios}")
+# else:
+#      print(f"El precio final sin el 10% de descuento es: {precio}")
+
+# 7 
+# edad = int(input(f"Ingresa tu edad: "))
+# if edad >= 18:
+#     print(f"El ciudadano puede votar")
+# else:
+#     print(f"El ciudadano no puede votar")
+
+# 8
+# precio = (float(input(f"Ingrese del precio de producto: ")) , input(f"Eres cliente VIP? (Si/No): "))
+# precios = precio[0] - (precio[0] * 0.2)
+# if precio[1] == "Si":
+#     print(f"El precio total con el descuento VIP del 20% es {precios}")
+# else:
+#     print (f"El precio total sin el descuento VIP es de {precio[0]}")
+
+#9 
+# numero = float(input(f"Ingresa un numero: "))
+# if numero % 3 == 0 and numero % 5 == 0:
+#     print(f"El numero {numero} es multiplo de 3 y 5")
+# else:
+#     print(f"El numero {numero} no es múltiplo de 3 y 5")
+
+# 10
+# numero1 = float(input(f"Ingresa un numero: "))
+# numero2 = float(input(f"Ingresa un numero para dividirlo: "))
+# numero3 = float(input(f"Ingresa otro numero para dividirlo: "))
+# if numero1 % numero2 == 0 and numero1 %numero3 == 0:
+#     print(f"{numero1} es divisible entre {numero2} y {numero3}")
+# else:
+#     print(f"{numero1} no es divisible entre {numero2} y {numero3}")
