@@ -312,10 +312,10 @@
 #     print(f"El pago de {nombre} es: ${pago}")
 
 # 20 
-calificacion = int(input(f"Ingresa tu nota (0-100): "))
-if calificacion < 50:
-    print(f"Tu calificacion es {calificacion} y es insuficente")
-elif calificacion >= 50 and calificacion <= 79:
-    print(f"Tu calificacion es {calificacion} y es aceptable")
-else:
-    print(f"Tu calificación es {calificacion} y es sobresaliente")
+# calificacion = int(input(f"Ingresa tu nota (0-100): "))
+# if calificacion < 50:
+#     print(f"Tu calificacion es {calificacion} y es insuficente")
+# elif calificacion >= 50 and calificacion <= 79:
+#     print(f"Tu calificacion es {calificacion} y es aceptable felicidades")######
+# else:
+#     print(f"Tu calificación es {calificacion} y es sobresaliente felicidades")
